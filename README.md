@@ -37,3 +37,7 @@ Label text fields as `autocorrect="off"` and `"spellcheck="false"` in order to d
 ### Swift
 
 `textField.autocorrectionType = .no`
+
+# Finding this page
+
+This page can be reached easily via https://spellchecksquatting.com
