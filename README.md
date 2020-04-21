@@ -4,4 +4,4 @@ Mobile platforms often enable spellcheck by default which can result in user ent
 
 ## Solutions:
 
-Label text fields as "autocorrect=off" on iOS for example.
+Label text fields as `autocorrect="off"` and `"spellcheck="false"` in order to disable this.
