@@ -1,6 +1,12 @@
-# Spell Check Squatting
+# Spellcheck Squatting
 
-Mobile platforms often enable spellcheck by default which can result in user entered data being modified unexpectedly if the user is not paying attention sufficiently.
+This is a variation on typo-squatting, mobile platforms often enable spellcheck by default which can result in user entered data being modified unexpectedly if the user is not paying attention sufficiently. An attacker can find a list of names, see what spellcheck or autocorrect suggests instead and then register the spellchecked/autocorrected  variant.
+
+This is especially problematic in web sites and applications that allow you to send money to other users and require you to type the username/account in manually. Managing dictionaries on mobile platforms is often difficult or not possible, so adding new names may not be possible. 
+
+# Examples of this exploit
+
+* [Sent EOS to wrong Account From exchange Coinbase](https://eosio.stackexchange.com/questions/5378/sent-eos-to-wrong-account-from-exchange-coinbase)
 
 # Solutions:
 
