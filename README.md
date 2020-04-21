@@ -27,3 +27,13 @@ Label text fields as `autocorrect="off"` and `"spellcheck="false"` in order to d
 2. Tap System > Languages & input > Virtual keyboard
 3. Tap Text correction
 4. Go to the Corrections section and tap Auto-correction to toggle it, set it to off
+
+## For application developers:
+
+### Objective C
+
+`someInput.autoCorrectionType = UITextAutocorrectionTypeNo;`
+
+### Swift
+
+`textField.autocorrectionType = .no`
