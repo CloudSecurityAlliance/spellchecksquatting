@@ -4,7 +4,7 @@ This is a variation on typo-squatting, mobile platforms often enable spellcheck 
 
 This is especially problematic in web sites and applications that allow you to send money to other users and require you to type the username/account in manually. Managing dictionaries on mobile platforms is often difficult or not possible, so adding new names may not be possible.
 
-This also applies to capitalizing the first letter of a password by defualt, e.g. {Gmail password first character is case insensitive on mobile device] (https://support.google.com/mail/thread/55577729/gmail-password-first-character-is-case-insensitive-on-mobile-device?hl=en) 
+This also applies to capitalizing the first letter of a password by defualt, e.g. [Gmail password first character is case insensitive on mobile device] (https://support.google.com/mail/thread/55577729/gmail-password-first-character-is-case-insensitive-on-mobile-device?hl=en) 
 
 # Examples of this exploit
 
