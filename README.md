@@ -6,6 +6,8 @@ This is especially problematic in web sites and applications that allow you to s
 
 This also applies to capitalizing the first letter of a password by defualt, e.g. [Gmail password first character is case insensitive on mobile device](https://support.google.com/mail/thread/55577729/gmail-password-first-character-is-case-insensitive-on-mobile-device?hl=en) and the HNN thread https://news.ycombinator.com/item?id=28808289
 
+THere is also speculation that modern code development environments that include spellcheck capabilities may introduce this issue as well for e.g. importing modules/libraries.
+
 # Examples of this exploit
 
 * [Sent EOS to wrong Account From exchange Coinbase](https://eosio.stackexchange.com/questions/5378/sent-eos-to-wrong-account-from-exchange-coinbase)
